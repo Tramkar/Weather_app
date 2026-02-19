@@ -27,3 +27,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     const weather = await API.fetchWeather('London');
     console.log(weather);
 });
+//api Keys are pain in the ass but at least I was able to help my friend out 
+// he asked to move his stuff next friday
+//
